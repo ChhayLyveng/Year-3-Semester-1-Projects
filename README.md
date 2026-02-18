@@ -1,4 +1,4 @@
-# Year-3-Semester-1-Projects-ChhayLyveng
+# Year-3-Semester-1-Projects
 This repository contains a collection of academic projects completed during the first semester of my third year. These projects focus on Data Science, Optimization, and Statistical analysis.
 
 ---
@@ -21,13 +21,4 @@ This repository contains a collection of academic projects completed during the 
 * **Statistical Analysis:** Drawing meaningful conclusions from complex datasets through rigorous testing.
 * **Problem Solving:** Translating theoretical concepts into functional code.
 
----
-
-## 🛠️ How to Navigate
-Each folder contains its own specific documentation (if applicable) and source code. 
-
-1. **Clone the repo:** `git clone https://github.com/YOUR_USERNAME/Year-3-Semester-1-Projects.git`
-2. **Explore folders:** Navigate to the specific project directory to view the implementation.
-
----
 *Created as part of my Year 3 coursework - February 2026*
