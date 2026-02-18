@@ -16,9 +16,11 @@ This repository contains a collection of academic projects completed during the 
 ---
 
 ## Key Learning Objectives
-* **Data Engineering:** Building efficient pipelines for data processing.
-* **Mathematical Optimization:** Applying linear and non-linear programming to real-world constraints.
-* **Statistical Analysis:** Drawing meaningful conclusions from complex datasets through rigorous testing.
-* **Problem Solving:** Translating theoretical concepts into functional code.
+* **Data Acquisition & Engineering:** Mastered diverse data collection methods, including Web Scraping (BeautifulSoup/Requests) for unstructured data and conducting Primary Research through student surveys.
+* **Mathematical Optimization:** Developed a deep conceptual and practical understanding of Stochastic Linear Programming, including solving complex problems via the L-Shape Decomposition and manual Simplex methods.
+* **Statistical Mastery:** Applied rigorous statistical frameworks, from Point Estimation and Confidence Intervals to Hypothesis Testing, ensuring data-driven conclusions are mathematically sound.
+* **Exploratory Data Analysis (EDA):** Performed comprehensive analysis on large-scale datasets (e.g., Zomato Kaggle dataset) using the Python data stack to uncover trends and patterns.
+* **Predictive Modeling:** Implemented and evaluated Linear Regression models to move beyond description into data-driven forecasting.
+* **Data Visualization:** Created impactful visual narratives using Matplotlib and Seaborn to communicate findings from both secondary and primary data sources.
 
 *Created as part of my Year 3 coursework - February 2026*
