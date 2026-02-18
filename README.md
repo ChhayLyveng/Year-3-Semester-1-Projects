@@ -7,7 +7,7 @@ This repository contains a collection of academic projects completed during the 
 
 | Project | Description | Key Skills / Tools |
 | :--- | :--- | :--- |
-| **IDS_project** | **Introduction to Data Science**: Data description,Applied Statistic descriptive, Data cleaning, exploratory analysis, Data Visaulization and predictive modeling. | Python, Pandas, Scikit-learn(Linear Regression) |
+| **IDS_project** | **Introduction to Data Science**: Data description,Applied Statistic descriptive, Data cleaning, exploratory analysis, Data Visaulization and predictive modeling. | Python, Pandas,  Matplotlib, Seaborn, Scikit-learn(Linear Regression) |
 | **Optimization_project** | **Stochastic Linear Programming**: Conceptional Understading, Simplex Method , Algerbraic Method, and L-Shape Decomposition. | Optimization Theory  |
 | **PDS_1st_project** | **Programming for Data Science (Part 1)**: Analysis secondary data from kaggle (Zomato Restaurant Analysis). | Python, Pandas, Matplotlib, Seaborn |
 | **PDS_2nd_project** | **Programming Data Science (Part 2)**: Scrap Data, Feature Engineering and Analysis Data (Quotes Analysis). | Python, Beatiful Soup4, Request, Time, Pandas, Matplotlib, Seaborn |
