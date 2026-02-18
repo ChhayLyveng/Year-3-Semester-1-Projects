@@ -7,11 +7,11 @@ This repository contains a collection of academic projects completed during the 
 
 | Project | Description | Key Skills / Tools |
 | :--- | :--- | :--- |
-| **IDS_project** | **Introduction to Data Science**: Data cleaning, exploratory analysis, and predictive modeling. | Python, Pandas, Scikit-learn |
-| **Optimization_project** | Mathematical modeling and solving complex optimization problems. | Python / MATLAB / Gurobi |
-| **PDS_1st_project** | **Practical Data Science (Part 1)**: First phase of end-to-end data pipeline development. | SQL, Data Wrangling |
-| **PDS_2nd_project** | **Practical Data Science (Part 2)**: Advanced implementation and deployment of data solutions. | Machine Learning, APIs |
-| **Statistics_Project** | Statistical inference, hypothesis testing, and data visualization. | R / Statsmodels / Visualization |
+| **IDS_project** | **Introduction to Data Science**: Data description,Applied Statistic descriptive, Data cleaning, exploratory analysis, Data Visaulization and predictive modeling. | Python, Pandas, Scikit-learn(Linear Regression) |
+| **Optimization_project** | **Stochastic Linear Programming**: Conceptional Understading, Simplex Method , Algerbraic Method, and L-Shape Decomposition. | Optimization Theory  |
+| **PDS_1st_project** | **Programming for Data Science (Part 1)**: Analysis secondary data from kaggle (Zomato Restaurant Analysis). | Python, Pandas, Matplotlib, Seaborn |
+| **PDS_2nd_project** | **Programming Data Science (Part 2)**: Scrap Data, Feature Engineering and Analysis Data (Quotes Analysis). | Python, Beatiful Soup4, Request, Time, Pandas, Matplotlib, Seaborn |
+| **Statistics_Project** | Survey students for Monthly house cost, Desciptive Statistic, Point estimator, Confidence Interval, hypothesis testing, and data visualization. | Python, numpy, Pandas, Matplotlib, Seaborn | 
 
 ---
 
