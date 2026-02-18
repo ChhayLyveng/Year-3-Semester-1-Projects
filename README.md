@@ -1,4 +1,4 @@
-# Year-3-Semester-1-Projects
+# Year3-Semester1-Projects
 This repository contains a collection of academic projects completed during the first semester of my third year. These projects focus on Data Science, Optimization, and Statistical analysis.
 
 ---
