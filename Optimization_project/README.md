@@ -1,7 +1,7 @@
 # Stochastic Linear Programming Project 
 
 ## Overview
-A deep dive into mathematical optimization under uncertainty. This project moves beyond deterministic models to explore problems where parameters are probabilistic.
+A deep dive into mathematical optimization under uncertainty parameter which is random varible. This project moves beyond deterministic models to explore problems where parameters are probabilistic.
 
 ## Core Content
 * **Conceptual Understanding:** Modeling "Here-and-Now" vs. "Wait-and-See" decisions.
